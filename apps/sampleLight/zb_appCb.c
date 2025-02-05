@@ -264,6 +264,7 @@ void sampleLight_otaProcessMsgHandler(u8 evt, u8 status)
 }
 #endif
 
+//extern void dualModeRecovery(void);
 
 s32 sampleLight_recoveryStart(void *arg)
 {

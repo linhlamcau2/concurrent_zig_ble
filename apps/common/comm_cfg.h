@@ -45,8 +45,8 @@
  *
  * Normal mode is used by default.
  */
-//#define BOOT_LOADER_MODE					0
-
+//#define BOOT_LOADER_MODE					1
+//#define DUAL_MODE 							1
 
 
 /* Boot loader address. */
